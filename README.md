@@ -1,1 +1,1 @@
-# my-first-blog
+# Python Django project
