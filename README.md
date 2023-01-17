@@ -1,1 +1,1 @@
-# Python Django project
+# Python Django blog project
